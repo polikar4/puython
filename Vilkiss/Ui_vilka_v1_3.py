@@ -16,6 +16,8 @@ from PyQt5.QtWidgets import (QWidget, QPushButton, QLineEdit,
     QInputDialog, QApplication)
 import socket
 
+
+asdas = "dasd"
 Ip_server = '82.146.57.182'
 NormalSizeWindow = False
 NormalSizeText  = False
