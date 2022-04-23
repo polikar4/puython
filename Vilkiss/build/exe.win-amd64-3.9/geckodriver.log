@@ -1,0 +1,164 @@
+1648147049311	geckodriver	INFO	Listening on 127.0.0.1:51734
+1648147052320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--disable-gpu" "--remote-debugging-port" "51735" "-no-remote" "-profile" "C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofile6PjtHD"
+*** You are running in headless mode.
+1648147052671	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofile6PjtHD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51735/devtools/browser/d0946c53-2850-4809-b454-8746dd0da5ca
+1648147053858	Marionette	INFO	Listening on port 51740
+1648147054365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648305950956	geckodriver	INFO	Listening on 127.0.0.1:54369
+1648305954014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--disable-gpu" "--remote-debugging-port" "54370" "-no-remote" "-profile" "C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileRwjhyb"
+*** You are running in headless mode.
+1648305954898	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileRwjhyb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54370/devtools/browser/6ec1b009-1ff5-4e2c-9948-0ba4232d335e
+1648305957003	Marionette	INFO	Listening on port 54375
+1648305957187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 5: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 14: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1648387870259	geckodriver	INFO	Listening on 127.0.0.1:58604
+1648387873289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--disable-gpu" "--remote-debugging-port" "58605" "-no-remote" "-profile" "C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofilefOBQjO"
+*** You are running in headless mode.
+1648387874261	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofilefOBQjO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58605/devtools/browser/5110437c-c468-496b-97e5-2eb19858adaf
+1648387876041	Marionette	INFO	Listening on port 58611
+1648387876469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648387881247	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648387881290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1648390416660	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 5: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 14: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1648390421947	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648390423095	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648408704789	geckodriver	INFO	Listening on 127.0.0.1:50377
+1648408707890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--disable-gpu" "--remote-debugging-port" "50378" "-no-remote" "-profile" "C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofile12WYKS"
+*** You are running in headless mode.
+1648408708957	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofile12WYKS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50378/devtools/browser/638b2855-4bc0-43e5-b643-f54605fb4cc8
+1648408710869	Marionette	INFO	Listening on port 50383
+1648408711084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 5: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 14: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1648412887068	geckodriver	INFO	Listening on 127.0.0.1:59968
+1648412890190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--disable-gpu" "--remote-debugging-port" "59969" "-no-remote" "-profile" "C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileDCtWXZ"
+*** You are running in headless mode.
+1648412892489	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileDCtWXZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59969/devtools/browser/ecddcd54-a2ae-4bbb-a3ef-2ea2a08e778f
+1648412896471	Marionette	INFO	Listening on port 59975
+1648412896598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 5: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 14: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1648413089116	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648413092254	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648413094925	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1648417015421	geckodriver	INFO	Listening on 127.0.0.1:58874
+1648417018553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--disable-gpu" "--remote-debugging-port" "58875" "-no-remote" "-profile" "C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileDaYm7v"
+*** You are running in headless mode.
+1648417019366	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileDaYm7v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58875/devtools/browser/860d7824-c775-43b7-be8d-7d9508916610
+1648417022644	Marionette	INFO	Listening on port 58880
+1648417022849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648417026450	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1648417032681	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648417051018	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648417051047	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 5: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/logic/picker-angular.js?cv=170&language=ru-ru, line 14: unreachable code after return statement
+JavaScript warning: https://dotapicker.com/assets/js/jquery.2.0.3.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1648417059760	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648417060682	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648417062978	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1648417064849	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1650730011922	geckodriver	INFO	Listening on 127.0.0.1:63041
+1650730014990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--disable-gpu" "--remote-debugging-port" "63042" "-no-remote" "-profile" "C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileTlQqrc"
+*** You are running in headless mode.
+1650730017231	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileTlQqrc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63042/devtools/browser/078735ce-49ac-4d47-9da2-9240cd65a618
+1650730021565	Marionette	INFO	Listening on port 63049
+1650730022070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1650730051650	geckodriver	INFO	Listening on 127.0.0.1:63187
+1650730054740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--disable-gpu" "--remote-debugging-port" "63188" "-no-remote" "-profile" "C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileydRiJM"
+*** You are running in headless mode.
+1650730055756	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Vadim\\AppData\\Local\\Temp\\rust_mozprofileydRiJM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63188/devtools/browser/58064c45-959a-4c61-8e93-412df1cda839
+1650730058491	Marionette	INFO	Listening on port 63196
+1650730059001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 13: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
